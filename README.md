@@ -55,7 +55,7 @@
         <h1>Welcome to My Simple HTML Project</h1>
     </header>
     <main>
-        <p>This is a simple HTML project with CSS and JavaScript.</p>
+        <p>This is a my simple HTML project with CSS and JavaScript.</p>
         <button id="myButton">Click Me!</button>
     </main>
     <script>
